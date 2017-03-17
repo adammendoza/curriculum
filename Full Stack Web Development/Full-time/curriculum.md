@@ -31,10 +31,11 @@ Students are formally evaluated for progress towards completion at 12 weeks into
 
 Array does not have a cumulative final test or examination required for the completion of any of the courses. A statement will be furnished to students regarding satisfactory or unsatisfactory progress.
 
-##### Grading System
 | Grade | Definition |
 | :---  | :---: |
 |**O** (Outstanding)| Has significantly exceeded all minimum course requirements with an acute eye for detail and standard of excellence. A grade of Outstanding is equivalent to an A+. |
 |**P** (Pass)|Has satisfactorily met all minimum course requirements. A grade of Pass is equivalent to a grade of A-D.|
 |**F** (Fail)|Has not satisfactorily met all minimum course requirements. A grade of Fail is equivalent to an F.|
 |**I** (Incomplete)|An incomplete is provided only if a faculty member gives an extension to a particular student to complete a course project. An extension can only be granted for a maximum of 30 days from the last day of class. If a student is not able to complete his/her project within this amount of time, he/she will be given an F.|
+
+## Curriculum
