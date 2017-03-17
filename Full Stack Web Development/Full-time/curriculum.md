@@ -23,4 +23,18 @@ At Array, we award students who have successfully completed our program with cer
 #### Grading System
 Array, School of Technology and Design measures student progress through frequent homework assignments and in-depth projects. Students are graded on a pass/fail basis. To receive a passing grade, students must:
 
-##### 
+1. Receive a passing grade on 80% of all homework assignments. Homework is graded on the basis of completion. To receive a passing grade on a homework assignment, students must complete 100% of the minimum tasks specified in that assignment.
+2. Maintain consistent attendance as outlined in our [Attendance section](http://arrayschool.com/downloads/Array_Catalog-Cheyenne2016.pdf). A passing grade in attendance will be given to students with no more than two or four absences, depending on the program.
+3. Receive a passing grade on all course projects. Projects are graded on an A-F scale. A grade of a D and above is passing. 
+
+Students are formally evaluated for progress towards completion at 12 weeks into their program.
+
+Array does not have a cumulative final test or examination required for the completion of any of the courses. A statement will be furnished to students regarding satisfactory or unsatisfactory progress.
+
+##### Grading System
+| Grade | Definition |
+| :---  | :---: |
+|**O** (Outstanding)| Has significantly exceeded all minimum course requirements with an acute eye for detail and standard of excellence. A grade of Outstanding is equivalent to an A+. |
+|**P** (Pass)|Has satisfactorily met all minimum course requirements. A grade of Pass is equivalent to a grade of A-D.|
+|**F** (Fail)|Has not satisfactorily met all minimum course requirements. A grade of Fail is equivalent to an F.|
+|**I** (Incomplete)|An incomplete is provided only if a faculty member gives an extension to a particular student to complete a course project. An extension can only be granted for a maximum of 30 days from the last day of class. If a student is not able to complete his/her project within this amount of time, he/she will be given an F.|
