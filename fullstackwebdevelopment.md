@@ -1,2 +1,0 @@
-# Curriculum here.
-## Hi.
