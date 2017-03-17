@@ -20,4 +20,7 @@ Array, School of Technology and Design was incorporated by the State of Wyoming 
 ## Standards of Progress
 At Array, we award students who have successfully completed our program with certificates. We award two types of certificates to our graduating students:
 
-#### Certificate of Completion
+#### Grading System
+Array, School of Technology and Design measures student progress through frequent homework assignments and in-depth projects. Students are graded on a pass/fail basis. To receive a passing grade, students must:
+
+##### 
