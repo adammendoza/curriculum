@@ -80,7 +80,7 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 * Explain what happens when a client visits a website
 * Performance and Optimization
 
-#### Software
+#### Software and Web Services
 * Mac OS X - *Operating System*
 * [Slack](http://www.slack.com) - *Team communication tool*
 * [Sketch](http://www.sketchapp.com) - *Graphic design / wireframing*
@@ -88,6 +88,9 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 * [CodeKit](http://www.codekitapp.com) - *Web development tool*
 * [Cyberduck](http://www.cyberduck.io) - *SFTP/SSH/FTP client*
 * [Mountain Duck](http://www.mountainduck.io) - *Volume mounting tool*
+* [InVision App](http://www.invisionapp.com) - *Online prototyping and design tool*
+* [Sip](http://www.sipapp.io) - *Professional color picker and encoder*
+* [Tower](http://www.git-tower.com) - *Git GUI client*
 
 ***
 
@@ -115,7 +118,7 @@ Items listed here are taught and used throughout the course for at least two wee
 * User authentication systems
 * Relational database structures and schemas
 
-#### Software
+#### Software and Web Services
 * [Unity 3D](http://www.unity3d.com) - *Game Engine*
 
 ***
@@ -134,6 +137,7 @@ Items listed here were either a special day class or were covered to the extent 
 * RESTful development & web services
 * NoSQL - *MongoDB*
 * eCommerce solutions such as Stripe or Shopify
+* Domain & DNS setup
 
 #### Software and Web Services
 * [Basecamp](http://www.basecamp.com) - *Product/team management tool*
