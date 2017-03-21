@@ -65,7 +65,7 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 * MVC (Model View Controller)
 * UNIX Command Line
 * Data Structures and Algorithms
-* Test-Driven Development in JavaScript
+* Test-Driven Development
 * User Interface & User Experience Design (UI/UX)
 * Wireframes, Mockups, and Prototyping
 * Responsive/mobile design principals
@@ -150,6 +150,6 @@ Items listed here were either a special day class or were covered to the extent 
 * Apple Productivity Suite - *Pages, Numbers, & Keynote*
 * Adobe Photoshop CC
 * Adobe Illustrator CC
-* Adobe Bridge
+* Adobe Bridge CC
 * Adobe Camera Raw CC
 
