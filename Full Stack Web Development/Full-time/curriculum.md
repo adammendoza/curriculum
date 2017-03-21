@@ -51,10 +51,10 @@ By the end of our six-month program, students will have learned the following la
 ### **Strongly Emphasized**
 Items listed here are heavily used throughout the entire duration of our six-month course and are the tent poles in our educational model.
 
-#### Programming Languages
+#### Programming Languages and Frameworks
 * HTML5
 * CSS3
-* SASS
+* SASS (CSS Preprocessor)
 * Javascript
 * Ruby
 * Ruby on Rails
@@ -68,18 +68,22 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 ### **Emphasized**
 Items listed here are taught and used throughout the course for at least two weeks or more and required students to work with them on real-world projects.
 
-#### Programming Languages
+#### Programming Languages and Frameworks
+* C#
+* ReactJS
+* NodeJS
 
 #### Disciplines
 
 #### Software
+*Unity 3D (Game Engine)
 
 ***
 
 ### **Covered**
 Items listed here were either a special day class or were covered to the extent where students would have a working knowledge of the following languages, disciplines, or software.
 
-#### Programming Languages
+#### Programming Languages and Frameworks
 
 #### Disciplines
 
