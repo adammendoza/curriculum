@@ -46,7 +46,9 @@ Our students will learn an array of web programming languages, color and typogra
 
 By the end of our six-month program, students will have learned the following languages, philosophies, and software packages:
 
-### Strong Emphasis
+***
+
+### *Strongly Emphasized*
 Items listed here are heavily used throughout the entire duration of our six-month course.
 
 #### Programming Languages
@@ -57,7 +59,7 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 
 ***
 
-### Emphasized
+### *Emphasized*
 Items listed here are heavily used throughout the entire duration of our six-month course.
 
 #### Programming Languages
@@ -68,7 +70,7 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 
 ***
 
-### Covered
+### *Covered*
 Items listed here are heavily used throughout the entire duration of our six-month course.
 
 #### Programming Languages
