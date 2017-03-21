@@ -81,6 +81,10 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 * Performance and Optimization
 
 #### Software
+* Mac OS X (Operating System)
+* [Slack](http://www.slack.com) (Team communication tool)
+* [Sketch](http://www.sketchapp.com) (Graphic design / wireframing)
+* [Atom](http://www.atom.io) (Text editor)
 
 ***
 
