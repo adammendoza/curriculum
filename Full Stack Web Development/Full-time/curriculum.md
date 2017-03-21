@@ -125,7 +125,7 @@ Items listed here are taught and used throughout the course for at least two wee
 * [Unity 3D](http://www.unity3d.com) - *Game Engine*
 * [Resilio Sync](http://www.resilio.com) - *P2P file sharing*
 * [Flinto](http://www.flinto.com) - *App prototyping tools for designers*
-* [Kaleidoscope](http://http://www.kaleidoscopeapp.com) - *File comparison app*
+* [Kaleidoscope](http://www.kaleidoscopeapp.com) - *File comparison app*
 ***
 
 ### **Covered**
