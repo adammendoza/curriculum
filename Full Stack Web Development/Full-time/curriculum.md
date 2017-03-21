@@ -81,10 +81,13 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 * Performance and Optimization
 
 #### Software
-* Mac OS X (Operating System)
-* [Slack](http://www.slack.com) (Team communication tool)
+* Mac OS X - *Operating System*
+* [Slack](http://www.slack.com) - *Team communication tool*
 * [Sketch](http://www.sketchapp.com) (Graphic design / wireframing)
 * [Atom](http://www.atom.io) (Text editor)
+* [CodeKit](http://www.codekitapp.com) (Web development tool)
+* [Cyberduck](http://www.cyberduck.io) (SFTP/SSH/FTP Client)
+* [Mountain Duck](http://www.mountainduck.io) (Volume mounting tool)
 
 ***
 
