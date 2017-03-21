@@ -71,13 +71,15 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 * Typography Theory
 * Refactoring Code
 * Writing clean and commented code
+* Setting up local & remote IDEs
+* How the internet works and the general cycle of web development. 
 
 #### Software
 
 ***
 
 ### **Emphasized**
-Items listed here are taught and used throughout the course for at least two weeks or more and required students to work with them on real-world projects.
+Items listed here are taught and used throughout the course for at least two weeks or more and required students to use them on real-world projects.
 
 #### Programming Languages and Frameworks
 * C#
@@ -85,11 +87,19 @@ Items listed here are taught and used throughout the course for at least two wee
 * NodeJS
 * SQL
 * jQuery
+* JSON
+* XML
 
 #### Disciplines
+* Agile/SCRUM development methodologies 
 * Working and implementing various APIs
 * Integrating with cloud services such as AWS or DigitalOcean
-* 
+* Raspberry Pi Projects
+* AWS (Amazon Web Services) specifically EC2, Route53, SNS, and S3
+* Heroku cloud deployment
+* Development vs. Production testing environments
+* User authentication systems
+* Relational database structures and schemas
 
 #### Software
 *Unity 3D (Game Engine)
@@ -100,8 +110,11 @@ Items listed here are taught and used throughout the course for at least two wee
 Items listed here were either a special day class or were covered to the extent where students would have a working knowledge of the following languages, disciplines, or software.
 
 #### Programming Languages and Frameworks
+* hhh
 
 #### Disciplines
+* RESTful development
 
-#### Software
+#### Software and Web Services
+* Basecamp (Product/team development tools)
 
