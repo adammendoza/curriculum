@@ -124,7 +124,7 @@ Items listed here were either a special day class or were covered to the extent 
 
 #### Disciplines
 * SEO (Google AdWords & general optimization)
-* RESTful development
+* RESTful development & web services
 * NoSQL (MongoDB)
 * eCommerce solutions such as Stripe or Shopify
 
