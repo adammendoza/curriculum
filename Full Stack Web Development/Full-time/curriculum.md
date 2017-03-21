@@ -79,6 +79,7 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 * General cycle of web development
 * Explain what happens when a client visits a website
 * Performance and Optimization
+* Soft skills - *Time & Attendance, interview skills, resume design, action oriented, public speaking, teamwork.*
 
 #### Software and Web Services
 * Mac OS X - *Operating System*
