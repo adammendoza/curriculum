@@ -54,25 +54,31 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 #### Programming Languages and Frameworks
 * HTML5
 * CSS3
-* SASS (CSS Preprocessor)
+* CSS Preprocessors: SASS and SCSS
 * Javascript
 * Ruby
 * Ruby on Rails
 
 #### Disciplines
-* Version Control (Git)
+* Version Control Workflow (Git)
 * OOP (Object Oriented Programming)
 * MVC (Model View Controller)
 * UNIX Command Line
+* Data Structures and Algorithms
+* Test-Driven Development in JavaScript
 * User Interface & User Experience Design (UI/UX)
 * Wireframes, Mockups, and Prototyping
 * Responsive/mobile design principals
+* Write and use robust tests at multiple levels
+* DOM Traversal and Manipulation with jQuery
 * Color Theory
 * Typography Theory
 * Refactoring Code
 * Writing clean and commented code
-* Setting up local & remote IDEs
-* How the internet works and the general cycle of web development. 
+* Initializing local & remote IDEs
+* General cycle of web development
+* Explain what happens when a client visits a website
+* Performance and Optimization
 
 #### Software
 
