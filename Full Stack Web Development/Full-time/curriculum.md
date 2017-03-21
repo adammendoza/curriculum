@@ -1,5 +1,5 @@
 # Full Stack Web Development (Full-time)
-In this 24-week course at [Array](http://www.arrayschool.com), students become junior-level developers by building web applications, developing their own ideas into functional pieces of software, understanding collaborative web development workflows, and embarking on the career path of a web developer. This course will give aspiring web developers the confidence to build projects from start to finish at a professional level in a mobile-first world.
+In this 24-week course at [Array](http://www.arrayschool.com), students become junior-level developers by building web applications, developing their ideas into functional pieces of software, understanding collaborative web development workflows, and embarking on the career path of a web developer. This course will give aspiring web developers the confidence to build projects from start to finish at a professional level in a mobile-first world.
 
 The focus of this course is learning to program in multiple languages to create web applications. The curriculum as a whole focuses on teaching students how to be professional full-stack developers capable of building scalable products with a team of developers. In addition to teaching Rails, this course also includes lessons on computer science, Ruby, JavaScript, HTML, CSS, CSS Pre-Processors, Command Line, Git, UI/UX design and principals, and database schemas.
 
@@ -36,10 +36,10 @@ Array does not have a cumulative final test or examination required for the comp
 |**O** (Outstanding)| Has significantly exceeded all minimum course requirements with an acute eye for detail and standard of excellence. A grade of Outstanding is equivalent to an A+. |
 |**P** (Pass)|Has satisfactorily met all minimum course requirements. A grade of Pass is equivalent to a grade of A-D.|
 |**F** (Fail)|Has not satisfactorily met all minimum course requirements. A grade of Fail is equivalent to an F.|
-|**I** (Incomplete)|An incomplete is provided only if a faculty member gives an extension to a particular student to complete a course project. An extension can only be granted for a maximum of 30 days from the last day of class. If a student is not able to complete his/her project within this amount of time, he/she will be given an F.|
+|**I** (Incomplete)|An incomplete is only provided if a faculty member gives an extension to a particular student to complete a course project. An extension can be granted for a maximum of 30 days from the last day of class. If a student is not able to complete his/her project within this amount of time, he/she will be given an F.|
 
 ### Certificate of Completion
-A Certificate of Completion is issued within 7 days of the end of the course to each student who has successfully fulfilled the Array, School of Technology and Design requirements of obtaining a “Pass” in a course and has satisfactorily completed our curriculum and work ethic standards.
+A Certificate of Completion is issued within seven days of the end of the course to each student who has successfully fulfilled the Array, School of Technology and Design requirements of obtaining a “Pass” in a course and has satisfactorily completed our curriculum and work ethic standards.
 
 ## Curriculum
 Our students will learn an array of web programming languages, color and typography disciplines, and frameworks aimed to give them the tool belt they need to be a successful and agile web developer.
@@ -129,7 +129,7 @@ Items listed here are taught and used throughout the course for at least two wee
 ***
 
 ### **Covered**
-Items listed here were either a special day class or were covered to the extent where students would have a working knowledge of the following languages, disciplines, or software.
+Items listed here were either a special day class or are covered to the extent where students will have a working knowledge of the following languages, disciplines, or software.
 
 #### Programming Languages and Frameworks
 * Python
@@ -146,7 +146,7 @@ Items listed here were either a special day class or were covered to the extent 
 
 #### Software and Web Services
 * [Basecamp](http://www.basecamp.com) - *Product/team management tool*
-* [Atlasssian Products & Services](http://www.atlassian.com)
+* [Atlassian Products & Services](http://www.atlassian.com)
 * [Glyphs](http://www.glyphsapp.com) - *Font editing and creation*
 * Apple Productivity Suite - *Pages, Numbers, & Keynote*
 * Adobe Photoshop CC
