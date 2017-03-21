@@ -39,7 +39,19 @@ Array does not have a cumulative final test or examination required for the comp
 |**I** (Incomplete)|An incomplete is provided only if a faculty member gives an extension to a particular student to complete a course project. An extension can only be granted for a maximum of 30 days from the last day of class. If a student is not able to complete his/her project within this amount of time, he/she will be given an F.|
 
 ### Certificate of Completion
-A Certificate of Completion is issued within 7 days of the end of the course to each student who has successfully fulfilled the Array, School of Technology and Design requirements of obtaining a “Pass” in a course and has satisfactorily completed our curriculum standards.
+A Certificate of Completion is issued within 7 days of the end of the course to each student who has successfully fulfilled the Array, School of Technology and Design requirements of obtaining a “Pass” in a course and has satisfactorily completed our curriculum and work ethic standards.
 
 ## Curriculum
+Our students will learn an array of web programming languages, color and typography disciplines, and frameworks aimed to give them the tool belt they need to be a successful and agile web developer.
+
+By the end of our six-month program, students will have learned the following languages, philosophies, and software packages:
+
+### Strong Emphasis
+Items listed here are heavily used throughout the entire duration of our six-month course.
+
+#### Programming Languages
+
+#### Philosophies & Skills
+
+#### Software
 
