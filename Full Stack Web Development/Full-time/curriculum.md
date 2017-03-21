@@ -83,11 +83,11 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 #### Software
 * Mac OS X - *Operating System*
 * [Slack](http://www.slack.com) - *Team communication tool*
-* [Sketch](http://www.sketchapp.com) (Graphic design / wireframing)
-* [Atom](http://www.atom.io) (Text editor)
-* [CodeKit](http://www.codekitapp.com) (Web development tool)
-* [Cyberduck](http://www.cyberduck.io) (SFTP/SSH/FTP Client)
-* [Mountain Duck](http://www.mountainduck.io) (Volume mounting tool)
+* [Sketch](http://www.sketchapp.com) - *Graphic design / wireframing*
+* [Atom](http://www.atom.io) - *Text editor*
+* [CodeKit](http://www.codekitapp.com) - *Web development tool*
+* [Cyberduck](http://www.cyberduck.io) - *SFTP/SSH/FTP client*
+* [Mountain Duck](http://www.mountainduck.io) - *Volume mounting tool*
 
 ***
 
@@ -116,7 +116,7 @@ Items listed here are taught and used throughout the course for at least two wee
 * Relational database structures and schemas
 
 #### Software
-* [Unity 3D](http://www.unity3d.com) (Game Engine)
+* [Unity 3D](http://www.unity3d.com) - *Game Engine*
 
 ***
 
@@ -130,13 +130,13 @@ Items listed here were either a special day class or were covered to the extent 
 * Docker
 
 #### Disciplines
-* SEO (Google AdWords & general optimization)
+* SEO - *Google AdWords & general optimization*
 * RESTful development & web services
-* NoSQL (MongoDB)
+* NoSQL - *MongoDB*
 * eCommerce solutions such as Stripe or Shopify
 
 #### Software and Web Services
-* [Basecamp](http://www.basecamp.com) (Product/team management tool)
+* [Basecamp](http://www.basecamp.com) - *Product/team management tool*
 * [Atlasssian Products & Services](http://www.atlassian.com)
 * Adobe Photoshop CC
 * Adobe Illustrator CC
