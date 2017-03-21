@@ -108,7 +108,7 @@ Items listed here are taught and used throughout the course for at least two wee
 * Relational database structures and schemas
 
 #### Software
-*Unity 3D (Game Engine)
+* [Unity 3D](http://www.unity3d.com) (Game Engine)
 
 ***
 
