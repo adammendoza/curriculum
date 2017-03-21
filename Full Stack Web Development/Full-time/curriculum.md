@@ -49,12 +49,15 @@ By the end of our six-month program, students will have learned the following la
 ***
 
 ### **Strongly Emphasized**
-Items listed here are heavily used throughout the entire duration of our six-month course.
+Items listed here are heavily used throughout the entire duration of our six-month course and are the tent poles in our educational model.
 
 #### Programming Languages
 * HTML5
 * CSS3
 * SASS
+* Javascript
+* Ruby
+* Ruby on Rails
 
 #### Disciplines
 
@@ -63,7 +66,7 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 ***
 
 ### **Emphasized**
-Items listed here are heavily used throughout the entire duration of our six-month course.
+Items listed here are taught and used throughout the course for at least two weeks or more and required students to work with them on real-world projects.
 
 #### Programming Languages
 
@@ -74,7 +77,7 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 ***
 
 ### **Covered**
-Items listed here are heavily used throughout the entire duration of our six-month course.
+Items listed here were either a special day class or were covered to the extent where students would have a working knowledge of the following languages, disciplines, or software.
 
 #### Programming Languages
 
