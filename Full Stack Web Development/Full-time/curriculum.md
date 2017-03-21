@@ -60,6 +60,17 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 * Ruby on Rails
 
 #### Disciplines
+* Version Control (Git)
+* OOP (Object Oriented Programming)
+* MVC (Model View Controller)
+* UNIX Command Line
+* User Interface & User Experience Design (UI/UX)
+* Wireframes, Mockups, and Prototyping
+* Responsive/mobile design principals
+* Color Theory
+* Typography Theory
+* Refactoring Code
+* Writing clean and commented code
 
 #### Software
 
@@ -72,8 +83,13 @@ Items listed here are taught and used throughout the course for at least two wee
 * C#
 * ReactJS
 * NodeJS
+* SQL
+* jQuery
 
 #### Disciplines
+* Working and implementing various APIs
+* Integrating with cloud services such as AWS or DigitalOcean
+* 
 
 #### Software
 *Unity 3D (Game Engine)
