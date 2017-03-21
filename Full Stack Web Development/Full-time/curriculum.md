@@ -89,6 +89,7 @@ Items listed here are taught and used throughout the course for at least two wee
 
 #### Programming Languages and Frameworks
 * C#
+* PHP
 * ReactJS
 * NodeJS
 * SQL
@@ -116,11 +117,22 @@ Items listed here are taught and used throughout the course for at least two wee
 Items listed here were either a special day class or were covered to the extent where students would have a working knowledge of the following languages, disciplines, or software.
 
 #### Programming Languages and Frameworks
-* hhh
+* Python
+* ASP.net
+* WordPress & CMS Systems
+* Docker
 
 #### Disciplines
+* SEO (Google AdWords & general optimization)
 * RESTful development
+* NoSQL (MongoDB)
+* eCommerce solutions such as Stripe or Shopify
 
 #### Software and Web Services
-* Basecamp (Product/team development tools)
+* [Basecamp](http://www.basecamp.com) (Product/team management tool)
+* [Atlasssian Products & Services](http://www.atlassian.com)
+* Adobe Photoshop CC
+* Adobe Illustrator CC
+* Adobe Bridge
+* Adobe Camera Raw CC
 
