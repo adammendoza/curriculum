@@ -52,6 +52,9 @@ By the end of our six-month program, students will have learned the following la
 Items listed here are heavily used throughout the entire duration of our six-month course.
 
 #### Programming Languages
+* HTML5
+* CSS3
+* SASS
 
 #### Disciplines
 
