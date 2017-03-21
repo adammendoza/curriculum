@@ -51,7 +51,29 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 
 #### Programming Languages
 
-#### Philosophies & Skills
+#### Disciplines
+
+#### Software
+
+***
+
+### Emphasized
+Items listed here are heavily used throughout the entire duration of our six-month course.
+
+#### Programming Languages
+
+#### Disciplines
+
+#### Software
+
+***
+
+### Covered
+Items listed here are heavily used throughout the entire duration of our six-month course.
+
+#### Programming Languages
+
+#### Disciplines
 
 #### Software
 
