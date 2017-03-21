@@ -72,7 +72,7 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 * Write and use robust tests at multiple levels
 * DOM Traversal and Manipulation with jQuery
 * Color Theory
-* Typography Theory
+* Typography Theory and font creation
 * Refactoring Code
 * Writing clean and commented code
 * Initializing local & remote IDEs
@@ -91,6 +91,7 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 * [InVision App](http://www.invisionapp.com) - *Online prototyping and design tool*
 * [Sip](http://www.sipapp.io) - *Professional color picker and encoder*
 * [Tower](http://www.git-tower.com) - *Git GUI client*
+* [Dropbox](http://www.dropbox.com) - *Online file storage*
 
 ***
 
@@ -112,15 +113,18 @@ Items listed here are taught and used throughout the course for at least two wee
 * Working and implementing various APIs
 * Integrating with cloud services such as AWS or DigitalOcean
 * Raspberry Pi Projects
+* Recursion
 * AWS (Amazon Web Services) specifically EC2, Route53, SNS, and S3
-* Heroku cloud deployment
+* [Heroku](http://www.heroku.com) cloud deployment
 * Development vs. Production testing environments
 * User authentication systems
 * Relational database structures and schemas
 
 #### Software and Web Services
 * [Unity 3D](http://www.unity3d.com) - *Game Engine*
-
+* [Resilio Sync](http://www.resilio.com) - *P2P file sharing*
+* [Flinto](http://www.flinto.com) - *App prototyping tools for designers*
+* [Kaleidoscope](http://http://www.kaleidoscopeapp.com) - *File comparison app*
 ***
 
 ### **Covered**
@@ -142,6 +146,8 @@ Items listed here were either a special day class or were covered to the extent 
 #### Software and Web Services
 * [Basecamp](http://www.basecamp.com) - *Product/team management tool*
 * [Atlasssian Products & Services](http://www.atlassian.com)
+* [Glyphs](http://www.glyphsapp.com) - *Font editing and creation*
+* Apple Productivity Suite - *Pages, Numbers, & Keynote*
 * Adobe Photoshop CC
 * Adobe Illustrator CC
 * Adobe Bridge
