@@ -56,6 +56,7 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 * CSS3
 * CSS Preprocessors: SASS and SCSS
 * Javascript
+* jQuery
 * Ruby
 * Ruby on Rails
 
@@ -65,11 +66,9 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 * MVC (Model View Controller)
 * UNIX Command Line
 * Data Structures and Algorithms
-* Test-Driven Development
 * User Interface & User Experience Design (UI/UX)
 * Wireframes, Mockups, and Prototyping
 * Responsive/mobile design principals
-* Write and use robust tests at multiple levels
 * DOM Traversal and Manipulation with jQuery
 * Color Theory
 * Typography Theory and font creation
@@ -77,7 +76,6 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 * Writing clean and commented code
 * Initializing local & remote IDEs
 * General cycle of web development
-* Explain what happens when a client visits a website
 * Performance and Optimization
 * Soft skills - *Time & Attendance, interview skills, resume design, action oriented, public speaking, teamwork.*
 
@@ -87,12 +85,8 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 * [Sketch](http://www.sketchapp.com) - *Graphic design / wireframing*
 * [Atom](http://www.atom.io) - *Text editor*
 * [CodeKit](http://www.codekitapp.com) - *Web development tool*
-* [Cyberduck](http://www.cyberduck.io) - *SFTP/SSH/FTP client*
-* [Mountain Duck](http://www.mountainduck.io) - *Volume mounting tool*
 * [InVision App](http://www.invisionapp.com) - *Online prototyping and design tool*
 * [Sip](http://www.sipapp.io) - *Professional color picker and encoder*
-* [Tower](http://www.git-tower.com) - *Git GUI client*
-* [Dropbox](http://www.dropbox.com) - *Online file storage*
 
 ***
 
@@ -100,46 +94,33 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 Items listed here are taught and used throughout the course for at least two weeks or more and required students to use them on real-world projects.
 
 #### Programming Languages and Frameworks
-* C#
 * PHP
-* ReactJS
 * NodeJS
 * SQL
-* jQuery
 * JSON
-* XML
 
 #### Disciplines
-* Agile/SCRUM development methodologies 
-* Working and implementing various APIs
-* Integrating with cloud services such as AWS or DigitalOcean
-* Raspberry Pi Projects
-* Recursion
-* AWS (Amazon Web Services) specifically EC2, Route53, SNS, and S3
-* [Heroku](http://www.heroku.com) cloud deployment
-* Development vs. Production testing environments
-* User authentication systems
-* Relational database structures and schemas
+* Agile/SCRUM development methodologies
+*	RESTful development & web services
+*	Working with and implementing various APIs
+*	Raspberry Pi Projects
+*	Recursion
+*	AWS (Amazon Web Services) specifically EC2, Route53, SNS, and S3
+*	Heroku cloud deployment
+*	Development vs. Production testing environments
+*	User authentication systems
+*	Relational database structures and schemas
 
-#### Software and Web Services
-* [Unity 3D](http://www.unity3d.com) - *Game Engine*
-* [Resilio Sync](http://www.resilio.com) - *P2P file sharing*
-* [Flinto](http://www.flinto.com) - *App prototyping tools for designers*
-* [Kaleidoscope](http://www.kaleidoscopeapp.com) - *File comparison app*
 ***
 
 ### **Covered**
 Items listed here were either a special day class or are covered to the extent where students will have a working knowledge of the following languages, disciplines, or software.
 
 #### Programming Languages and Frameworks
-* Python
-* ASP.net
 * WordPress & CMS Systems
-* Docker
 
 #### Disciplines
 * SEO - *Google AdWords & general optimization*
-* RESTful development & web services
 * NoSQL - *MongoDB*
 * eCommerce solutions such as Stripe or Shopify
 * Domain & DNS setup
@@ -147,10 +128,15 @@ Items listed here were either a special day class or are covered to the extent w
 #### Software and Web Services
 * [Basecamp](http://www.basecamp.com) - *Product/team management tool*
 * [Atlassian Products & Services](http://www.atlassian.com)
-* [Glyphs](http://www.glyphsapp.com) - *Font editing and creation*
-* Apple Productivity Suite - *Pages, Numbers, & Keynote*
-* Adobe Photoshop CC
-* Adobe Illustrator CC
-* Adobe Bridge CC
-* Adobe Camera Raw CC
 
+By the end of this course students will be able to:
+* Understand Command Line Fundamentals 
+* Apply CSS to HTML sites to separate content from presentation/style
+* Apply push and pull commands in GitHub and understand version control basics
+*	Build custom apps by integrating routing, controllers, views, and databases using Ruby on Rails
+*	Describe how the integration of JavaScript and Rails works to make your application interactive
+* Write JavaScript that allows the browser to communicate with the server without reloading the current page, to do things like validate or save form input and refresh images
+*	Describe what an API is and how to retrieve data from various third party APIs
+*	Create more efficient and elegant solutions to problems by applying fundamental computer science concepts to applications
+*	Make sure applications are secure by applying best practices to avoid site crashes and service attacks 
+* Understand how to work in a professional team environment on the web application development process from start to finish
