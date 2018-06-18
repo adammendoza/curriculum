@@ -6,12 +6,12 @@ The focus of this course is learning to program in multiple languages to create 
 ## Course Details
 | Topic | Details |
 | :---  | --- |
-|**Duration**| 24-weeks / Six-months |
-|**Instructional Hours**|906 Hours|
+|**Duration**| 29-weeks / Seveh months |
+|**Instructional Hours**|810 Hours|
 |**Commitment Type**|Full-time|
 |**Student / Teacher Ratio**|10:1|
 |**Application Fee**|$50|
-|**Tuition**|$15,000|
+|**Tuition**|$18,000|
 |**Location**|Downtown Cheyenne Campus|
 
 ## Approvals
