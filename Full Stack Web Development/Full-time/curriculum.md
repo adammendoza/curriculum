@@ -6,7 +6,7 @@ The focus of this course is learning to program in multiple languages to create 
 ## Course Details
 | Topic | Details |
 | :---  | --- |
-|**Duration**| 29-weeks / Seveh months |
+|**Duration**| 29-weeks / Seven months |
 |**Instructional Hours**|810 Hours|
 |**Commitment Type**|Full-time|
 |**Student / Teacher Ratio**|10:1|
