@@ -1,5 +1,5 @@
 # Array's Full Stack Web Development Course (Full-time)
-In this 24-week course at [Array](http://www.arrayschool.com), students become junior-level developers by building web applications, developing their ideas into functional pieces of software, understanding collaborative web development workflows, and embarking on the career path of a web developer. This course will give aspiring web developers the confidence to build projects from start to finish at a professional level in a mobile-first world.
+In this 29-week course at [Array](http://www.arrayschool.com), students become junior-level developers by building web applications, developing their ideas into functional pieces of software, understanding collaborative web development workflows, and embarking on the career path of a web developer. This course will give aspiring web developers the confidence to build projects from start to finish at a professional level in a mobile-first world.
 
 The focus of this course is learning to program in multiple languages to create web applications. The curriculum as a whole focuses on teaching students how to be professional full-stack developers capable of building scalable products with a team of developers. In addition to teaching Rails, this course also includes lessons on computer science, Ruby, JavaScript, HTML, CSS, CSS Pre-Processors, Command Line, Git, UI/UX design and principals, and database schemas.
 
@@ -81,6 +81,7 @@ Items listed here are heavily used throughout the entire duration of our six-mon
 
 #### Software and Web Services
 * Mac OS X - *Operating System*
+* Adobe Creative Cloud (Photoshop, Illustrator, InDesign)
 * [Slack](http://www.slack.com) - *Team communication tool*
 * [Sketch](http://www.sketchapp.com) - *Graphic design / wireframing*
 * [Atom](http://www.atom.io) - *Text editor*
